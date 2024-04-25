@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Data Management and Unstructured Data**
+- 🌱 I’m currently learning **Machine Learning, Data Management & Unstructured Data**
 
 - 📫 How to reach me **azlinrusnan@gmail.com**
 
-- ⚡ Fun fact **I think I am awesome!**
+- ⚡ Fun fact **Pretty, Smart & Pretty Smart**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
