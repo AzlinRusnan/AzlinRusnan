@@ -21,3 +21,12 @@
     <img src="https://github-readme-stats.vercel.app/api?username=azlinrusnan&show_icons=true&locale=en&theme=tokyonight" alt="azlinrusnan stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=azlinrusnan&theme=tokyonight" alt="azlinrusnan streaks" />
 </div>
+
+### Hi there, I'm Azlin Rusnan! 👋
+
+- 🌍 I'm based in Kuala Lumpur, City of Luminous Vistas.
+- 📫 How to reach me: <a href="mailto:azlin@example.com">Send me an email</a>
+- 🔗 Visit my website: [azlin.com](http://azlin.com)
+- 📷 Follow me on Instagram: [@azlinrusnan](https://instagram.com/azlinrusnan)
+
+![Profile views](https://gpvc.arturio.dev/AzlinRusnan)
