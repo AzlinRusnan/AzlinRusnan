@@ -13,12 +13,11 @@
 
 - ⚡ Fun fact **Pretty, Smart & Pretty Smart**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools 🛠️:</h3>
 <p align="left"> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azlinrusnan&show_icons=true&locale=en&layout=compact" alt="azlinrusnan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azlinrusnan&show_icons=true&locale=en" alt="azlinrusnan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azlinrusnan&" alt="azlinrusnan" /></p>
+<div style="display: flex; justify-content: space-around; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azlinrusnan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="azlinrusnan languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=azlinrusnan&show_icons=true&locale=en&theme=tokyonight" alt="azlinrusnan stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=azlinrusnan&theme=tokyonight" alt="azlinrusnan streaks" />
+</div>
