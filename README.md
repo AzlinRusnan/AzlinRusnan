@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Data Management & Unstructured Data**
+- 🌱 I’m currently learning **Machine Learning, Data Management & Unstructured Data** 
 
 - 📫 How to reach me **azlinrusnan@gmail.com**
 
@@ -44,7 +44,7 @@
 
 ---
 
-<p align="center">
+<p align="left">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=azlinrusnan&show_icons=true&theme=buefy">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azlinrusnan&size_weight=0.15&count_weight=0.5&layout=compact&theme=buefy">
 </p>
