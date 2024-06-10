@@ -38,7 +38,7 @@
 
   
 <p align="left">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=azlinrusnan&theme=buefy&hide_border=false&border_radius=5&card_width=800">
+  <img width="500" height="220" src="https://streak-stats.demolab.com?user=azlinrusnan&theme=buefy&hide_border=false&border_radius=5&card_width=800">
 </p>
 
 
