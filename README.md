@@ -37,20 +37,20 @@
 ---
 
   
-<p align="center">
+<p align="left">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=azlinrusnan&theme=buefy&hide_border=false&border_radius=5&card_width=800">
 </p>
 
 
 ---
 
-<p align="center">
+<p align="left">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=azlinrusnan&show_icons=true&theme=buefy">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azlinrusnan&size_weight=0.15&count_weight=0.5&layout=compact&theme=buefy">
 </p>
  
 
 
-<div id="header" align="right">
+<div id="header" align="left">
   <img src="https://komarev.com/ghpvc/?username=azlinrusnan&style=for-the-badge&color=orange" alt=""/>
 </div>
