@@ -47,7 +47,7 @@
 <p align="left">
   <img width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=azlinrusnan&show_icons=true&theme=buefy">
   
-  <img width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azlinrusnan&size_weight=0.15&count_weight=0.5&layout=compact&theme=buefy">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azlinrusnan&size_weight=0.15&count_weight=0.5&layout=compact&theme=buefy">
 </p>
  
 
