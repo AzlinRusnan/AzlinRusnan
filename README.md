@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- Currently a Master Student in Data Science & Analytics
+- Currently pursuing a Master’s Degree in Data Science and Analytics.
 
 - How to reach me **azlinrusnan@gmail.com**
 
