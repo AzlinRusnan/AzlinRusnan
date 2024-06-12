@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- I’m currently learning **Machine Learning, Data Management & Unstructured Data** 
+- Currently a Master Student in Data Science & Analytics
 
 - How to reach me **azlinrusnan@gmail.com**
 
