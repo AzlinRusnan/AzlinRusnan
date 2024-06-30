@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/31812582/118072005-93d46980-b3c6-11eb-9afd-629b4f706a56.gif)
 <h1 align="center">Welcome, I'm Azlin Rusnan</h1>
-<h3 align="center">Experienced Reporting Analyst & Aspire to Be A Data Scientist</h3>
+<h3 align="center">Experienced Lead Data & Reporting Analyst & Aspire to Be A Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif">
 
 
