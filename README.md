@@ -17,9 +17,10 @@
 <div>
 
 ### Languages:
-| Python |
-|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |
+| Python | R |
+|--------|---|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="55" height="55"/> |
+
 
 ### Main libraries for Python:
 | Pytorch | Numpy | Pandas | Sklearn | Matplotlib |
@@ -30,6 +31,11 @@
 | Anconda | Jupyter |  MySQL | Postgres | 
 |----------|----------|----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img 
+
+### Tools & Technologies:
+| Cassandra | Hive | MongoDB | Presto | Zookeeper | Zeppelin | Spark | Hadoop |
+|-----------|------|---------|--------|-----------|----------|-------|--------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/cassandra/cassandra-original.svg" title="Cassandra" alt="Cassandra" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" title="Hive" alt="Hive" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/PrestoDB_logo.svg" title="Presto" alt="Presto" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Apache_Zookeeper_logo.svg" title="Zookeeper" alt="Zookeeper" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Apache_Zeppelin_logo.svg" title="Zeppelin" alt="Zeppelin" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Apache_Spark_logo.svg" title="Spark" alt="Spark" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original-wordmark.svg" title="Hadoop" alt="Hadoop" width="55" height="55"/> |
 
 </div>
 
