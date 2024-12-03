@@ -1,63 +1,84 @@
 ![MasterHead](https://user-images.githubusercontent.com/31812582/118072005-93d46980-b3c6-11eb-9afd-629b4f706a56.gif)
+
 <h1 align="center">Welcome, I'm Azlin Rusnan</h1>
-<h3 align="center">Experienced Lead Data & Reporting Analyst & Aspire to Be A Data Scientist</h3>
+<h3 align="center">Experienced Lead Data & Reporting Analyst | Aspiring Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=azlinrusnan&style=for-the-badge&color=orange" alt="azlinrusnan" /> </p>
 
+---
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## 📚 Table of Contents
+- [About Me](#about-me)
+- [Languages and Tools](#languages-and-tools)
+- [GitHub Stats](#github-stats)
+- [Featured Projects](#featured-projects)
+- [Certifications](#certifications)
+- [Get in Touch](#get-in-touch)
 
-- Currently pursuing a Master’s Degree in Data Science and Analytics.
+---
 
-- How to reach me **azlinrusnan@gmail.com**
+## 🌟 About Me
+- 🎓 Currently pursuing a **Master’s Degree in Data Science and Analytics**.
+- 🔍 Passionate about uncovering insights and creating impact through data.
+- 📧 How to reach me: **azlinrusnan@gmail.com**
+- 🧠 Fun fact: **Pretty, Smart & Pretty Smart** 🚀
 
-- Fun fact: **Pretty, Smart & Pretty Smart**
+---
 
-## Languages and Tools 🛠️
-<div>
+## 🛠️ Languages and Tools
 
-### Languages:
+### Programming Languages:
 | Python | R |
 |--------|---|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="55"/> |
 
-
-### Main libraries for Python:
+### Python Libraries:
 | Pytorch | Numpy | Pandas | Sklearn | Matplotlib |
-|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|
+|---------|-------|--------|---------|------------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="Pytorch" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="Numpy" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="sklearn" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="55"/> |
 
-### Data Manipulation:
-| Anconda | Jupyter |  MySQL | Postgres | 
-|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img 
+### Data Manipulation & Databases:
+| Anaconda | Jupyter | MySQL | PostgreSQL |
+|----------|---------|-------|------------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" alt="Anaconda" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="55"/> |
 
-### Tools & Technologies:
+### Big Data Tools:
 | Cassandra | Hive | MongoDB | Presto | Zookeeper | Zeppelin | Spark | Hadoop |
 |-----------|------|---------|--------|-----------|----------|-------|--------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/cassandra/cassandra-original.svg" title="Cassandra" alt="Cassandra" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" title="Hive" alt="Hive" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/PrestoDB_logo.svg" title="Presto" alt="Presto" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Apache_Zookeeper_logo.svg" title="Zookeeper" alt="Zookeeper" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Apache_Zeppelin_logo.svg" title="Zeppelin" alt="Zeppelin" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Apache_Spark_logo.svg" title="Spark" alt="Spark" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original-wordmark.svg" title="Hadoop" alt="Hadoop" width="55" height="55"/> |
 
-</div>
-
 
 ---
+## 📊 GitHub Stats
 
-  
 <p align="left">
-  <img width="750" height="220" src="https://streak-stats.demolab.com?user=azlinrusnan&theme=buefy&hide_border=false&border_radius=5&card_width=800">
+  <img width="750" src="https://streak-stats.demolab.com?user=azlinrusnan&theme=buefy&hide_border=false&border_radius=5">
 </p>
 
+<p align="left">
+  <img width="750" src="https://github-readme-stats.vercel.app/api?username=azlinrusnan&show_icons=true&theme=buefy&hide_border=false&border_radius=5">
+</p>
+
+<p align="left">
+  <img width="750" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azlinrusnan&layout=compact&theme=buefy&hide_border=false&border_radius=5">
+</p>
 
 ---
+## 🚀 Featured Projects
 
-<p align="left">
-  <img width="750" height="200" src="https://github-readme-stats.vercel.app/api?username=azlinrusnan&show_icons=true&theme=buefy&hide_border=false&border_radius=5&card_width=800">
-  
-  <img width="750" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azlinrusnan&size_weight=0.15&count_weight=0.5&layout=compact&theme=buefy&hide_border=false&border_radius=5&card_width=800">
-</p>
- 
+- **[(CAPSTONE PROJECT) Customer Feedback Sentiment Analysis](https://github.com/azlinrusnan/customer-feedback-sentiment):** Analyze and classify customer feedback sentiments and predict CSAT scores using ML models.
+- **[Voice Aging Analysis](https://github.com/azlinrusnan/voice-aging-analysis):** A comparative study of Siti Nurhaliza's vocal recordings using Fourier Transform and STFT.
 
+---
+## 🎓 Certifications
+- **Google Data Analytics Professional Certificate**
+- **AWS Certified Data Analytics – Specialty**
 
-<div id="header" align="left">
-  <img src="https://komarev.com/ghpvc/?username=azlinrusnan&style=for-the-badge&color=orange" alt=""/>
-</div>
+---
+## 🤝 Get in Touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AzlinRusnan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/azlinrusnan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-orange?style=for-the-badge&logo=github)](https://azlinrusnan.github.io)
+[![Email](https://img.shields.io/badge/Email-AzlinRusnan-red?style=for-the-badge&logo=gmail)](mailto:azlinrusnan@gmail.com)
+
+---
