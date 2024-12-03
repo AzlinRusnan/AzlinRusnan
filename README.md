@@ -9,7 +9,7 @@
 ---
 
 ## 📚 Table of Contents
-- [About Me](#about-me)
+- [About Me](#-about-me)
 - [Languages and Tools](#languages-and-tools)
 - [GitHub Stats](#github-stats)
 - [Featured Projects](#featured-projects)
