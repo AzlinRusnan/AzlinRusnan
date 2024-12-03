@@ -10,11 +10,11 @@
 
 ## 📚 Table of Contents
 - [About Me](#-about-me)
-- [Languages and Tools](#languages-and-tools)
-- [GitHub Stats](#github-stats)
-- [Featured Projects](#featured-projects)
-- [Certifications](#certifications)
-- [Get in Touch](#get-in-touch)
+- [Languages and Tools](#-languages-and-tools)
+- [GitHub Stats](#-github-stats)
+- [Featured Projects](#-featured-projects)
+- [Certifications](#-certifications)
+- [Get in Touch](#-get-in-touch)
 
 ---
 
