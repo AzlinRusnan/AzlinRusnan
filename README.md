@@ -78,7 +78,7 @@
 
 ---
 ## 🤝 Get in Touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AzlinRusnan-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/azlinrusnan](https://www.linkedin.com/in/nur-azlin-rusnan-b7357b140/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AzlinRusnan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nur-azlin-rusnan-b7357b140/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-orange?style=for-the-badge&logo=github)](https://azlinrusnan.github.io)
 [![Email](https://img.shields.io/badge/Email-AzlinRusnan-red?style=for-the-badge&logo=gmail)](mailto:azlinrusnan@gmail.com)
 
