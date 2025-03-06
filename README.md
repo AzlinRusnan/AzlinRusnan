@@ -19,7 +19,7 @@
 ---
 
 ## 🌟 About Me
-- 🎓 Currently pursuing a **Master’s Degree in Data Science and Analytics**.
+- 🎓 **Master’s Degree in Data Science and Analytics**.
 - 🔍 Passionate about uncovering insights and creating impact through data.
 - 📧 How to reach me: **azlinrusnan@gmail.com**
 - 🧠 Fun fact: **Pretty, Smart & Pretty Smart** 🚀
