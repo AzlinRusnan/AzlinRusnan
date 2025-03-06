@@ -20,6 +20,7 @@
 
 ## 🌟 About Me
 - 🎓 **Master’s Degree in Data Science and Analytics**.
+- 🎓 **Bachelor’s Degree in Communication Engineering**
 - 🔍 Passionate about uncovering insights and creating impact through data.
 - 📧 How to reach me: **azlinrusnan@gmail.com**
 - 🧠 Fun fact: **Pretty, Smart & Pretty Smart** 🚀
